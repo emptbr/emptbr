@@ -1,5 +1,8 @@
 # Manual de Traducoes
 
+*Esse manual foi inspirado e quase 100% retirado do [manual de traducoes](https://github.com/campuscode/rails-guides-pt-BR/blob/main/TRANSLATION_MANUAL.md) do [Guia
+Rails](https://guiarails.com.br/) da [Campus Code](https://www.campuscode.com.br)*
+
 Este manual apresenta os padrões adotados para a tradução dos repositorios
 dentro do projeto *EmPTBR*, visando auxiliar o trabalho de todas as pessoas que
 colaboram com este projeto. Vamos procurar atualizar o manual continuamente e

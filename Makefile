@@ -11,3 +11,10 @@ preview:
 
 build:
 	yarn docs:build
+
+img:
+	docker build -t emptbr-site-image .
+
+docker: img
+	docker run --rm -p 5000:80 emptbr-site-image
+

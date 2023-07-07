@@ -1,3 +1,5 @@
+# Codigo de Conduta
+
 ## Quem somos:
 Comunidade focada no aprendizado e praticas em contribuicoes a projetos open source.
 

@@ -16,5 +16,4 @@ Esta documentacao esta sendo atualizada, se quiser contribuir da uma olhada
 no nosso [ repositorio ](https://github.com/bragamat/emptbr)!  
 Se quiser contribuir, da uma olhada no nosso [*Guia*](/contribuindo.md)
 
-[Entre na nossa comunidade do discord para mais informacoes! 🐝]
-(https://discord.gg/CUfRHxGXHF)
+[Entre na nossa comunidade do discord para mais informacoes! 🐝](https://discord.gg/CUfRHxGXHF)
